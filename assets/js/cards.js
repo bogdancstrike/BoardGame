@@ -1477,7 +1477,7 @@ const cards = [
     },
     {
         "id": 246,
-        "text": "Cine este cel mai probabil să ne facă cu cineva de același sex?",
+        "text": "Cine este cel mai probabil sa faca sex cu cineva de acelasi sex?",
         "picture": "assets/img/products/adevar.png",
         "type": "Adevar / Story Time"
     },
