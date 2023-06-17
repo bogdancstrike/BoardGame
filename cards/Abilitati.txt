@@ -1,0 +1,11 @@
+Fiecare jucator trebuie sa-ti ceara permisiunea inainte de a bea. Cine uita bea de 2 ori
+Foloseste "forta" pentru a "trimite" o carte trasa unui alt jucator. Dupa folosire se arde.
+Aceasta carte te protejeaza de orice aciune indreptata contra ta. Insa doar o singura data, dupa ce ai folosit-o, o decartezi.
+Foloseste aceasta carte cu efect de BUMERANG. Opresti orice actiune facuta contra ta si o intorci catre cel care a initiat-o.
+Foloseste aceasta caarte pentru a repeta ultima actiune jucata. One time use.
+Deviaza catre alti 2 jucatori actiunea care te obliga sa bei. Tu alegi cine sa fie cei doi. One time use.
+Ori de cate ori iti lipesti mainile de fata, toti ceilalti trebuie sa te imite. Ultimul bea
+Deviaza orice actiune indreptata catre tine spre un alt jucator. Alegerea iti apartine. One time only.
+Ori de cate ori te ridici si imiti un dirijor, toti ceilalti trebuie sa simuleze cantatul la un instrument. Ultimul bea.
+Toti jucatorii (inclusiv tu) trebuie sa-ti faca un compliment inainte sa bea, fara sa se repete vreunul.
+Woo-Hoo! Scapa de o carte de slabiciune si incearca sa te relaxezi, e gratis!
