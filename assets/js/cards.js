@@ -1,3 +1,6 @@
+// import { Swal } from './cdn/sweetalert2.all.min.js';
+// import '../css/sweetalert2.min.css';
+
 const cards = [
     {
         "id": 1,
@@ -2336,6 +2339,10 @@ const cards = [
 ]
 
 function generateCard() {
+    if (cards.length === 0) {
+        return null;
+    }
+
     const randomIndex = Math.floor(Math.random() * cards.length);
     const generatedCard = cards[randomIndex];
     cards.splice(randomIndex, 1); // Remove the generated card from the array
@@ -2349,6 +2356,21 @@ function generateCard() {
     
     generateButton.addEventListener("click", function() {
       const generatedCard = generateCard();
+
+      if (generatedCard === null) {
+        // Swal.fire(
+        //     'Good job!',
+        //     'You clicked the button!',
+        //     'success'
+        //   );
+        
+        var gameEnded = window.confirm('Game has ended! 🥂🥂');
+        if (gameEnded){
+            location.reload();
+        } else {
+            location.reload();
+        }
+      }
   
       // Create card elements with Bootstrap classes and custom styles
       const cardElement = document.createElement("div");
@@ -2360,7 +2382,6 @@ function generateCard() {
       imageElement.src = generatedCard.picture;
       imageElement.style.height = '200px';
       imageElement.style.width = 'auto';
-
 
       imageElement.alt = "card-image";
 
