@@ -1498,6 +1498,9 @@ function generateCard() {
     return null;
   }
 
+  console.log(cards.length);
+  console.log(cards[246])
+
   const randomIndex = Math.floor(Math.random() * cards.length);
   const generatedCard = cards[randomIndex];
   cards.splice(randomIndex, 1); // Remove the generated card from the array
