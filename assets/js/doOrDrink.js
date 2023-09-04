@@ -550,7 +550,7 @@ const cards = [
   },
   {
     id: 92,
-    text: "Spune 2 adevaruri 2 minciuni despre tine. Daca jucatorii ghicesc care este mincuna, trebuie sa bei un shot, daca nu ghicesc, ei trebuie sa bea",
+    text: "Spune 2 adevaruri 1 minciuna despre tine. Daca jucatorii ghicesc care este mincuna, trebuie sa bei un shot, daca nu ghicesc, ei trebuie sa bea",
     picture: "assets/img/products/provocare.png",
     type: "Actiune",
   },
