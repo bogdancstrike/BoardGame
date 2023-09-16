@@ -1371,7 +1371,7 @@ const cards = [
     pack: ["swingers"],
   },
   {
-    id: 427,
+    id: 4272,
     title: "Would You Rather?",
     text: "Would you rather watch your partner have sex with a stranger or have your partnet watch you? Everyone votes, the team with the least amount of votes must drink.",
     pack: ["swingers"],
@@ -1385,7 +1385,7 @@ const cards = [
   {
     id: 429,
     title: "Would You Rather?",
-    text: "Would you rather prefere to have foursome to the the couple or also try new couples?",
+    text: "Would you rather prefer to have foursome with the same couple or also try new couples?",
     pack: ["swingers"],
   },
   {
