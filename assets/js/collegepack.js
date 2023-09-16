@@ -1516,12 +1516,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const generatedCard = generateCard();
 
     if (generatedCard === null) {
-      // Swal.fire(
-      //     'Good job!',
-      //     'You clicked the button!',
-      //     'success'
-      //   );
-
       var gameEnded = window.confirm("Game has ended! 🥂🥂");
       if (gameEnded) {
         location.reload();
